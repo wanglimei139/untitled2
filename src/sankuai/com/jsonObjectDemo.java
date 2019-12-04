@@ -12,7 +12,8 @@ public class jsonObjectDemo {
         /**
          * json字符串转java代码
          */
-        String strjava = "{\"passwrod\":"\123456"\,\"username\":\"wlm\"}";
+        String strjava = "1111111";
+        System.out.println(12345);
 
     }
 

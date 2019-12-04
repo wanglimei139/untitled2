@@ -72,10 +72,6 @@ public class Demo1 {
         System.out.println("-------");
         System.out.println("-------");
         System.out.println("-------");
-        for (int i = 0; i < ; i++) {
-            ArrayList list = new ArrayList();
-            list.add();
-        }
 
 
 
